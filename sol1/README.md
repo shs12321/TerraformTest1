@@ -3,8 +3,8 @@
 # nano ~/.bashrc
 PS1="\[\033[32m\] \[\033[34;1m\]\W \[\033[32m\]\[\033[m\]\[\e[91m\]\[\e[00m\]$ "
 echo "
-export TF_VAR_AWS_ACCESS_KEY="AKIAZPKADKLYYRAHRL7F"
-export TF_VAR_AWS_SECRET_KEY="2Wx3/vif920hKQVMiaaF44RKwdJhdensQ2IaB"
+export TF_VAR_AWS_ACCESS_KEY="키삭제"
+export TF_VAR_AWS_SECRET_KEY="키삭제"
 export TF_VAR_AWS_REGION="ap-northeast-2"
 ">> ~/.bashrc
 '''
